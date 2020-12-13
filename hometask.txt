@@ -1,5 +1,5 @@
 Отличий.net
-12 коммитов, учитывая сливания
+11 коммитов, учитывая сливания
 Merge branch 'boots_buttons'
 Merge remote-tracking branch 'origin/hat'
 Merge remote-tracking branch 'origin/buttons' into boots_buttons
